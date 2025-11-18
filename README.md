@@ -74,6 +74,7 @@ I'm always eager to connect with fellow professionals, developers, designers, an
 - 🎖️ **2nd Rank at E-Cell Ignite - Silver Oak University Tech Fest 2025!**
 - 🏆 **Winner Of Summer Code Quest: UI/UX x Front-End Edition**
 - 🥇 **Featured Developer - College Annual Tech Showcase (2024)**
+- 🏆 **4th Rank at GTU’s National Level Poster Competition & Hackathon on AI-Powered Research & Innovation 2025**
 
 ---
 
