@@ -3,43 +3,10 @@
 
 
 <p text-align: justify; text-justify: inter-word;>
-  I'm a Highly skilled and passionate software engineer with a flair for creating innovative solutions. With a strong background in computer science and programming, I’ve developed a diverse range of technical skills that enable me to tackle complex challenges in software development.Over the years, I’ve consistently demonstrated my ability to deliver high-quality software products. I’m proficient in various programming languages including Python, Java, and C++, and possess extensive knowledge of software development methodologies and best practices. 
+ A passionate Web Developer and Graphics Designer from India. I enjoy building modern, scalable, and user-friendly applications while combining clean code with creative design. With a strong foundation in programming and problem-solving, I focus on delivering efficient and high-quality digital solutions that solve real-world problems.
+
+I work primarily with the MERN stack and have experience in technologies like HTML, CSS, JavaScript, React, Node.js, and MongoDB, along with tools like Figma, Adobe XD, and Photoshop for UI/UX design. I’m also familiar with databases, REST APIs, version control, and deployment platforms. Always eager to learn, I continuously explore new technologies to improve my skills and create impactful projects.
 </p>
-
-### 🔧 Technical Expertise:
-
-- **Software Development:**  
-  Proficient in building robust, scalable, and efficient systems using **Java**, **Python**, **C++**, and **JavaScript**. Experience in implementing **REST APIs**, integrating third-party services, and working with both monolithic and microservice architectures.
-
-- **Web Development:**  
-  Highly skilled in crafting modern, dynamic, and responsive websites using **HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, Bootstrap, and Tailwind CSS**. Familiar with front-end frameworks and libraries for faster UI development, ensuring cross-browser compatibility and accessibility.
-
-- **Mobile App Development:**  
-  Basic knowledge and hands-on experience with **React Native** and **Flutter** to develop cross-platform mobile applications.
-
-- **Graphic & UI/UX Design:**  
-  Passionate graphic designer specializing in visually compelling designs. Proficient in tools like **Adobe Photoshop, Adobe Illustrator, Figma, Adobe XD, and After Effects**. Skilled in wireframing, prototyping, creating design systems, and enhancing user experience through intuitive design principles.
-
-- **Database Management:**  
-  Skilled in handling both **Relational (SQL)** and **Non-Relational (NoSQL)** databases such as **MySQL, PostgreSQL, Firebase Realtime DB, Firestore, and MongoDB**. Experienced in data modeling, query optimization, and database security.
-
-- **Version Control & Collaboration:**  
-  Proficient with **Git, GitHub, GitLab, and Bitbucket**, ensuring smooth version control, branching strategies, and collaborative workflows. Familiar with **CI/CD pipelines** and automated deployment strategies.
-
-- **Cloud & Deployment:**  
-  Experience with deploying web applications using platforms like **Firebase Hosting, Heroku, Vercel, Netlify, and AWS (basic knowledge)**.
-
-- **SEO & Performance Optimization:**  
-  Well-versed in **SEO strategies**, website performance optimization, page speed improvements, and accessibility best practices to ensure websites rank well and perform smoothly.
-
-- **Testing & Debugging:**  
-  Comfortable using testing frameworks like **Jest**, **Mocha**, and browser developer tools to debug and test applications for reliability and correctness.
-
-- **Problem Solving & Data Structures:**  
-  Strong grasp of **DSA (Data Structures & Algorithms)**, consistently practicing and applying problem-solving skills to optimize code logic.
-
-- **Agile & Project Management:**  
-  Familiar with **Agile methodologies**, **Scrum**, **Kanban**, and project management tools like **Trello, Jira, Asana**, ensuring organized workflows and efficient task tracking.
 
 ---
 
@@ -79,10 +46,10 @@ I'm always eager to connect with fellow professionals, developers, designers, an
 ---
 
 <div>
-  <h4>👩‍💻 Tech Stack & Expertise:</h4>
+  <h4>👩‍💻 Tech Stack & Tools:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,kotlin,php,mysql,html,css,tailwind,bootstrap,sass,vue,react,nextjs,angular,threejs,nodejs,express,mongodb,graphql,redis,firebase,postgres,docker,aws,gcp,azure,vercel,netlify,git,github,gitlab,bitbucket,npm,linux,ubuntu,vscode,visualstudio,postman,jest,redux,flutter,androidstudio,wordpress,webflow)](https://krishsatasiya.netlify.app/)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,c,java,php,mysql,html,css,tailwind,bootstrap,vue,react,nextjs,angular,threejs,nodejs,express,mongodb,graphql,redis,firebase,postgres,docker,aws,gcp,vercel,netlify,git,github,gitlab,bitbucket,npm,linux,ubuntu,vscode,visualstudio,postman,jest,redux,flutter,androidstudio,wordpress,webflow)](https://krishsatasiya.netlify.app/)
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
