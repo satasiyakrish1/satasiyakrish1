@@ -49,7 +49,7 @@ I'm always eager to connect with fellow professionals, developers, designers, an
   <h4>👩‍💻 Tech Stack & Tools:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,c,mysql,html,css,tailwind,bootstrap,vue,react,nextjs,angular,nodejs,express,mongodb,graphql,redis,firebase,postgres,docker,aws,gcp,vercel,netlify,git,github,gitlab,bitbucket,npm,linux,vscode,visualstudio,postman,redux,flutter,androidstudio,wordpress,webflow)](https://krishsatasiya.netlify.app/)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,c,html,css,tailwind,bootstrap,react,nextjs,angular,vue,redux,nodejs,express,graphql,mysql,mongodb,postgres,redis,firebase,aws,gcp,vercel,netlify,docker,git,github,gitlab,bitbucket,npm,linux,vscode,visualstudio,postman,flutter,androidstudio,wordpress,webflow)](https://krishsatasiya.netlify.app/)
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
