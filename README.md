@@ -72,12 +72,3 @@ I'm always eager to connect with fellow professionals, developers, designers, an
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:krishsatasiya44@gmail.com)&nbsp;&nbsp; 
 
 
-
-<!-- for update : https://github.com/tandpfun/skill-icons -->  
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=satasiyakrish1&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satasiyakrish1&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
