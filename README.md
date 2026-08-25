@@ -55,8 +55,8 @@ I'm always eager to connect with fellow professionals, developers, designers, an
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
+[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@satasiyakrish1)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=figma,blender,svg,sketchup,ae,ai,ps,pr,xd)](https://krishsatasiya.netlify.app/)  
-
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
 </div>
